@@ -1,0 +1,15 @@
+{
+  "kind": "marinara.personal-extension",
+  "version": 1,
+  "config": {
+    "name": "Compact Translated Calls",
+    "version": "3.5.0",
+    "description": "Personal phone popup with configurable colors, native avatar crops, directional translation, and local call history/audio replay.",
+    "runtime": "client",
+    "enabled": false,
+    "capabilities": [
+      "full_page_access"
+    ],
+    "jsPath": "extension.js"
+  }
+}
